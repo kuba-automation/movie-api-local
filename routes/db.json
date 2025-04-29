@@ -1,0 +1,457 @@
+{
+  "movies": [
+    {
+      "id": 1,
+      "title": "The Matrix",
+      "year": 1999,
+      "director": "Lana Wachowski, Lilly Wachowski",
+      "genres": [
+        "Action",
+        "Sci-Fi"
+      ],
+      "rating": 8.7
+    },
+    {
+      "id": 2,
+      "title": "Inception",
+      "year": 2010,
+      "director": "Christopher Nolan",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+      ],
+      "rating": 8.8
+    },
+    {
+      "id": 3,
+      "title": "The Dark Knight",
+      "year": 2008,
+      "director": "Christopher Nolan",
+      "genres": [
+        "Action",
+        "Crime",
+        "Drama"
+      ],
+      "rating": 9
+    },
+    {
+      "id": 4,
+      "title": "The Godfather",
+      "year": 1972,
+      "director": "Francis Ford Coppola",
+      "genres": [
+        "Crime",
+        "Drama"
+      ],
+      "rating": 9.2
+    },
+    {
+      "id": 5,
+      "title": "The Shawshank Redemption",
+      "year": 1994,
+      "director": "Frank Darabont",
+      "genres": [
+        "Drama"
+      ],
+      "rating": 9.3
+    },
+    {
+      "id": 6,
+      "title": "Pulp Fiction",
+      "year": 1994,
+      "director": "Quentin Tarantino",
+      "genres": [
+        "Crime",
+        "Drama"
+      ],
+      "rating": 8.9
+    },
+    {
+      "id": 7,
+      "title": "Forrest Gump",
+      "year": 1994,
+      "director": "Robert Zemeckis",
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "rating": 8.8
+    },
+    {
+      "id": 8,
+      "title": "Fight Club",
+      "year": 1999,
+      "director": "David Fincher",
+      "genres": [
+        "Drama"
+      ],
+      "rating": 8.8
+    },
+    {
+      "id": 9,
+      "title": "The Avengers",
+      "year": 2012,
+      "director": "Joss Whedon",
+      "genres": [
+        "Action",
+        "Sci-Fi"
+      ],
+      "rating": 8
+    },
+    {
+      "id": 10,
+      "title": "Interstellar",
+      "year": 2014,
+      "director": "Christopher Nolan",
+      "genres": [
+        "Adventure",
+        "Drama",
+        "Sci-Fi"
+      ],
+      "rating": 8.6
+    },
+    {
+      "id": 11,
+      "title": "Coming back home",
+      "year": 1977,
+      "director": "John Ham",
+      "genres": [
+        "Drama",
+        "Sci-Fi"
+      ],
+      "rating": 7.1
+    },
+    {
+      "id": 12,
+      "title": "Coming back home",
+      "year": 1977,
+      "director": "John Ham",
+      "genres": [
+        "Drama",
+        "Sci-Fi"
+      ],
+      "rating": 7.1
+    },
+    {
+      "id": 13,
+      "title": "optical Utah Organic PCI mesh",
+      "year": 1958,
+      "director": "Michele McGlynn",
+      "genres": [
+        "Thriller"
+      ],
+      "rating": 1
+    },
+    {
+      "id": 14,
+      "title": "The Legacy Returns",
+      "year": 2025,
+      "director": "Michael Scott",
+      "genres": [
+        "Thriller"
+      ],
+      "rating": 7.5
+    }
+  ],
+  "actors": [
+    {
+      "id": 1,
+      "first_name": "Keanu",
+      "last_name": "Reeves",
+      "movies": [
+        1
+      ]
+    },
+    {
+      "id": 2,
+      "first_name": "Laurence",
+      "last_name": "Fishburne",
+      "movies": [
+        1
+      ]
+    },
+    {
+      "id": 3,
+      "first_name": "Carrie-Anne",
+      "last_name": "Moss",
+      "movies": [
+        1
+      ]
+    },
+    {
+      "id": 4,
+      "first_name": "Leonardo",
+      "last_name": "DiCaprio",
+      "movies": [
+        2
+      ]
+    },
+    {
+      "id": 5,
+      "first_name": "Joseph",
+      "last_name": "Gordon-Levitt",
+      "movies": [
+        2
+      ]
+    },
+    {
+      "id": 6,
+      "first_name": "Christian",
+      "last_name": "Bale",
+      "movies": [
+        3
+      ]
+    },
+    {
+      "id": 7,
+      "first_name": "Heath",
+      "last_name": "Ledger",
+      "movies": [
+        3
+      ]
+    },
+    {
+      "id": 8,
+      "first_name": "Marlon",
+      "last_name": "Brando",
+      "movies": [
+        4
+      ]
+    },
+    {
+      "id": 9,
+      "first_name": "Al",
+      "last_name": "Pacino",
+      "movies": [
+        4
+      ]
+    },
+    {
+      "id": 10,
+      "first_name": "Tim",
+      "last_name": "Robbins",
+      "movies": [
+        5
+      ]
+    },
+    {
+      "id": 11,
+      "first_name": "Morgan",
+      "last_name": "Freeman",
+      "movies": [
+        5
+      ]
+    },
+    {
+      "id": 12,
+      "first_name": "John",
+      "last_name": "Travolta",
+      "movies": [
+        6
+      ]
+    },
+    {
+      "id": 13,
+      "first_name": "Uma",
+      "last_name": "Thurman",
+      "movies": [
+        6
+      ]
+    },
+    {
+      "id": 14,
+      "first_name": "Tom",
+      "last_name": "Hanks",
+      "movies": [
+        7
+      ]
+    },
+    {
+      "id": 15,
+      "first_name": "Robin",
+      "last_name": "Wright",
+      "movies": [
+        7
+      ]
+    },
+    {
+      "id": 18,
+      "first_name": "Robert",
+      "last_name": "Downey Jr.",
+      "movies": [
+        9
+      ]
+    },
+    {
+      "id": 19,
+      "first_name": "Chris",
+      "last_name": "Hemsworth",
+      "movies": [
+        9
+      ]
+    },
+    {
+      "id": 20,
+      "first_name": "Matthew",
+      "last_name": "McConaughey",
+      "movies": [
+        10
+      ]
+    },
+    {
+      "id": 21,
+      "first_name": "Eleanora",
+      "last_name": "Green",
+      "movies": [
+        6
+      ]
+    },
+    {
+      "id": 22,
+      "first_name": "Anna",
+      "last_name": "Stewart",
+      "movies": [
+        14
+      ]
+    }
+  ],
+  "reviews": [
+    {
+      "id": 1,
+      "movie_id": 1,
+      "reviewer": "Alice",
+      "content": "A revolutionary sci-fi action movie.",
+      "rating": 9,
+      "date": "2021-08-10"
+    },
+    {
+      "id": 2,
+      "movie_id": 1,
+      "reviewer": "Bob",
+      "content": "Quite interesting.",
+      "rating": 7,
+      "date": "2025-11-10"
+    },
+    {
+      "id": 3,
+      "movie_id": 2,
+      "reviewer": "Charlie",
+      "content": "A complex, yet brilliant film.",
+      "rating": 7,
+      "date": "2020-09-10"
+    },
+    {
+      "id": 4,
+      "movie_id": 3,
+      "reviewer": "David",
+      "content": "The perfect sequel, with unforgettable performances.",
+      "rating": 10,
+      "date": "2022-9-10"
+    },
+    {
+      "id": 5,
+      "movie_id": 3,
+      "reviewer": "Eve",
+      "content": "A dark and intense film that redefined the genre.",
+      "rating": 9,
+      "date": "2025-04-10"
+    },
+    {
+      "id": 6,
+      "movie_id": 4,
+      "reviewer": "Frank",
+      "content": "A timeless classic about family and loyalty, but a bit boring.",
+      "rating": 6,
+      "date": "2022-04-28"
+    },
+    {
+      "id": 7,
+      "movie_id": 5,
+      "reviewer": "Grace",
+      "content": "An inspiring story of hope and friendship.",
+      "rating": 9,
+      "date": "2025-05-17"
+    },
+    {
+      "id": 8,
+      "movie_id": 5,
+      "reviewer": "Hank",
+      "content": "A heartfelt drama with powerful performances.",
+      "rating": 9,
+      "date": "2022-06-18"
+    },
+    {
+      "id": 9,
+      "movie_id": 6,
+      "reviewer": "Ivy",
+      "content": "A brilliant mix of crime and drama.",
+      "rating": 8,
+      "date": "2025-09-08"
+    },
+    {
+      "id": 10,
+      "movie_id": 7,
+      "reviewer": "Jack",
+      "content": "A beautiful story of love and fate.",
+      "rating": 9,
+      "date": "2022-12-04"
+    },
+    {
+      "id": 11,
+      "movie_id": 7,
+      "reviewer": "Kathy",
+      "content": "An unforgettable journey through time.",
+      "rating": 9,
+      "date": "2025-10-28"
+    },
+    {
+      "id": 12,
+      "movie_id": 8,
+      "reviewer": "Liam",
+      "content": "A gritty and powerful story.",
+      "rating": 8,
+      "date": "2024-07-24"
+    },
+    {
+      "id": 13,
+      "movie_id": 9,
+      "reviewer": "Mona",
+      "content": "An exciting, action-packed adventure.",
+      "rating": 9,
+      "date": "2025-01-10"
+    },
+    {
+      "id": 14,
+      "movie_id": 10,
+      "reviewer": "Nina",
+      "content": "A deep and emotional exploration of space and time.",
+      "rating": 9,
+      "date": "2022-08-16"
+    },
+    {
+      "id": 15,
+      "movie_id": 10,
+      "reviewer": "Oscar",
+      "content": "A visually stunning journey with a powerful message.",
+      "rating": 7,
+      "date": "2020-12-02"
+    },
+    {
+      "id": 16,
+      "movie_id": 3,
+      "reviewer": "Lew",
+      "content": "{{$randomSentence}}",
+      "rating": 8,
+      "date": "2024-2-8"
+    },
+    {
+      "id": 17,
+      "movie_id": 6,
+      "reviewer": "Anna",
+      "content": "Not my cup of tea.",
+      "rating": 3.6,
+      "date": "2025-04-29"
+    }
+  ]
+}
